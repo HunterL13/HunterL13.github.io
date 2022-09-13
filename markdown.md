@@ -27,9 +27,9 @@ The order of the items in this list doesn't matter.
 Check out this [website](https://www.pexels.com/search/border%20collie/)
 
 ### Blockquotes
->This is where a long quote or piece of information would go.
->
+>This is where a long quote or piece of information would go.>
 
 ### Blocks of code
 ```
 Console.WriteLine("Hello experiment page");
+```
